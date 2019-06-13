@@ -6,4 +6,4 @@ San Francisco has over 7,000 listings on Airbnb as of June 2019.
 In this project, I will perform an exploratory analysis of the Airbnb dataset sourced from the [Inside Airbnb](http://insideairbnb.com/about.html#disclaimers) website to understand how Airbnb is really being used in San Francisco. 
 
 The data comes from one main file, which will be split up into separate tables:
-- `listings.csv` - Detailed listings data showing 106 attributes for each of the listings in San Francisco 
+- `listings.csv` - Detailed listings data showing attributes for each of the listings in San Francisco 
